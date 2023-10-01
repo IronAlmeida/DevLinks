@@ -25,4 +25,4 @@ function toggleMode() {
 let data = new Date()
 const anoAtual = data.getFullYear()
 
-document.getElementById("footer").innerHTML = `Iron Almeida - Desenvolvedor Web e Mobile | ${anoAtual}`
+document.getElementById("footer").innerHTML = `Iron Almeida - Desenvolvedor Web Full Stack | ${anoAtual}`
